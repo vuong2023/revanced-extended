@@ -1,8 +1,8 @@
 logging-to-file = true        # enables logging of every patch process to a seperate file
 enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
 build-mindetach-module = false
-patches-source = "vuong2023/patche"
-integrations-source = "YT-Advanced/testintes"
+patches-source = "vuong2023/testpatch"
+integrations-source = "vuong2023/inter"
 rv-brand = "ReVanced eXtended"
 
 # add 'enabled = false' for not patching a specific app or remove it from the config
