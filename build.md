@@ -1,6 +1,6 @@
-Music (arm64-v8a): 6.17.52  
-YouTube: 18.35.35  
-Music (arm-v7a): 6.17.52  
+Music (arm64-v8a): 6.19.51  
+YouTube: 18.35.36  
+Music (arm-v7a): 6.19.51  
 
 Install [Vanced MicroG](https://github.com/inotia00/VancedMicroG/releases) or [mMicroG](https://github.com/inotia00/mMicroG/releases) to be able to use non-root YouTube or YouTube-Music  
 
@@ -8,12 +8,12 @@ Install [Vanced MicroG](https://github.com/inotia00/VancedMicroG/releases) or [m
 
 ---
 Changelog:  
-CLI: j-hc/revanced-cli-3.1.0-all.jar  
-Integrations: YT-Advanced/revanced-integrations-0.119.3.apk  
-Patches: vuong2023/revanced-patches-1.0.0.jar  
+CLI: j-hc/revanced-cli-3.2.0-all.jar  
+Integrations: vuong2023/revanced-integrations-0.121.0.apk  
+Patches: vuong2023/revanced-patches-2.190.1.jar  
 
-# 1.0.0 (2023-09-10)
+#### [2.190.1](https://github.com/vuong2023/testpatch/compare/v2.190.0...v2.190.1) (2023-09-17)
 ### Bug Fixes
-* app no name youtube src main ([17b53bf](https://github.com/vuong2023/patche/commit/17b53bf4e0d43be122b91c49409de065360d81dc))
+* no name youtube revanced ([a1a5cbd](https://github.com/vuong2023/testpatch/commit/a1a5cbdb0423dd340b8f6edfcd2b87d39bfd7308))
 
 ---  
